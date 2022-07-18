@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOd/i0nsjkJ2qkLkteMOLt1i7nlmdeTYrwWoHd7YZzXU6jff4jD1RvaAFVPfn0vqCIfLRnvPK+ogLdlwVE+erg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.bojanic\\Documents\\OnlineStoreRepo\\OnlineStore.Web\\OnlineStore.API.Contracts\\OnlineStore.API.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.bojanic\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\a.bojanic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

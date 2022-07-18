@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OnlineStore.DAL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnlineStore.Model": "1.0.0"
+        },
+        "runtime": {
+          "OnlineStore.DAL.Infrastructure.dll": {}
+        }
+      },
+      "OnlineStore.Model/1.0.0": {
+        "runtime": {
+          "OnlineStore.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.DAL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineStore.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

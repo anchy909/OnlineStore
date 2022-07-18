@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OnlineStore.BLL.Services/1.0.0": {
+        "dependencies": {
+          "OnlineStore.BLL.Infrastructure": "1.0.0",
+          "OnlineStore.DAL.Infrastructure": "1.0.0",
+          "OnlineStore.Model": "1.0.0"
+        },
+        "runtime": {
+          "OnlineStore.BLL.Services.dll": {}
+        }
+      },
+      "OnlineStore.BLL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnlineStore.Model": "1.0.0"
+        },
+        "runtime": {
+          "OnlineStore.BLL.Infrastructure.dll": {}
+        }
+      },
+      "OnlineStore.DAL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnlineStore.Model": "1.0.0"
+        },
+        "runtime": {
+          "OnlineStore.DAL.Infrastructure.dll": {}
+        }
+      },
+      "OnlineStore.Model/1.0.0": {
+        "runtime": {
+          "OnlineStore.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.BLL.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineStore.BLL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineStore.DAL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineStore.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
